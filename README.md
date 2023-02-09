@@ -2,8 +2,10 @@
 
 <p align='center'> 시간 관리 /  할일 관리 등 여러가지를 위해 만들어진 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white"/> 용 앱입니다. </p>
 
+<p align='center'> English Version of WIKI is aviable in <a href="https://github.com/ddkk08001/MuDo/wiki">Wiki Page</a> </p>
+
 ## Version History
-- **V1.0** - Init Version - [Release Note Here]("ddkk08001/MuDo")
+- **Currently No Version Avialable** - But - [Development Update Here]("https://github.com/ddkk08001/MuDo/wiki/Development-Update")
 
 
 ## Minimum Operating System
